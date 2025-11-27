@@ -1,37 +1,37 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "永久官网",
+    "link": "https://dxmax.net/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "客户端下载",
+    "link": "https://app.dxmax.one/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "小火箭账号",
+    "link": "https://ios.daxuan.xyz/share/dxmax/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "国内访问",
+    "link": "https://api.dxmax.cn"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "TG",
+    "link": "https://t.me/wdxmax/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "订阅转换",
+    "link": "https://link.daxuan.xyz/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "国内用户收藏",
+    "link": "https://github.com/foredisonxuan/-max/"
   }
 ]
